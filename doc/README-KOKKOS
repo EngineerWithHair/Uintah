@@ -1,4 +1,4 @@
-Uintah-specific Kokkos documentation can be found at http://uintah-build.sci.utah.edu/trac/wiki/Kokkos.
+Uintah-specific Kokkos documentation can be found at http://uintah-build.sci.utah.edu/trac/wiki/Kokkos. (This link doesn't work anymore)
 
 To automatically download and build Kokkos when building Uintah, add --enable-kokkos to the Uintah configure line.
 
